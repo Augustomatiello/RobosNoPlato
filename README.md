@@ -27,14 +27,21 @@ O output de cada robô são suas coordenadas e orientação finais.
 INPUT AND OUTPUT
 
 Exemplo de Input:
+
 5 5
+
 1 2 N
+
 EAEAEAEAA
+
 3 3 L
+
 AADAADADDA
 
 Output Esperado:
+
 1 3 N
+
 5 1 L
 
 2- Instruções
