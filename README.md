@@ -28,17 +28,11 @@ INPUT AND OUTPUT
 
 Exemplo de Input:
 
-5 5
-1 2 N
-EAEAEAEAA
-3 3 L
-
-AADAADADDA
+"5 5\n1 2 N\nEAEAEAEAA\n3 3 LAADAADADDA"
 
 Output Esperado:
 
-1 3 N
-5 1 L
+"1 3 N\n5 1 L"
 
 2- Instruções
 
