@@ -38,5 +38,6 @@ Output Esperado:
 5 1 L
 
 2- Instruções
+
 Para testar uma entrada, basta modificar o conteúdo arquivo exemplo.txt e rodar a classe main.
 Os testes, em junit, verificam a validade do arquivo de entrada.
